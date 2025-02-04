@@ -46,7 +46,7 @@ Menu:
 1. **Clonar o repositório**:
    Clone este repositório para a sua máquina local:
    ```bash
-   git clone https://github.com/henrymzs/gerenciamento-de-biblioteca.git
+   git clone https://github.com/henrymzs/library-C.git
     ```
 2. **Navegar até o Diretório do Projeto**:
     Navegue para a pasta onde o repositório foi clonado:
